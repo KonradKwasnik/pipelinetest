@@ -10,11 +10,11 @@
     {
         "name": "another123",
         "value": "another123",
-        "slotSetting": false
+        "slotSetting": true
     },
     {
         "name": "aminetest",
         "value": "minetest",
-        "slotSetting": false
+        "slotSetting": true
     }
 ]
