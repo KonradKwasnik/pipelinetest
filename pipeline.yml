@@ -5,7 +5,7 @@
     scriptLocation: 'inlineScript'
     inlineScript: |
       az webapp config appsettings set \
-        --name hgssy \
-        --resource-group hgssy_group \
+        --name gregg \
+        --resource-group gregg_group \
         --settings @config/settings.json
     displayName: 'Apply App Settings from JSON'
