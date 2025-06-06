@@ -1,0 +1,11 @@
+- task: AzureCLI@2
+  inputs:
+    azureSubscription: '94891e24-66a2-4883-b565-600aaa9705d4'
+    scriptType: 'bash'
+    scriptLocation: 'inlineScript'
+    inlineScript: |
+      az webapp config appsettings set \
+        --name hgssy \
+        --resource-group hgssy_group \
+        --settings @config/settings.json
+    displayName: 'Apply App Settings from JSON'
