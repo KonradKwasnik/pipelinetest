@@ -2,7 +2,7 @@ steps:
 
 - task: AzureCLI@2
   inputs:
-    azureSubscription: '94891e24-66a2-4883-b565-600aaa9705d4'
+    azureSubscription: 'azuressie'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
