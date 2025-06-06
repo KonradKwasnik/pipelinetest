@@ -1,0 +1,20 @@
+[
+    {
+        "name": "test123",
+        "value": "value123"
+    },
+    {
+        "name": "TestEV",
+        "value": "TestEV"
+    },
+    {
+        "name": "another123",
+        "value": "another123",
+        "slotSetting": false
+    },
+    {
+        "name": "aminetest",
+        "value": "minetest",
+        "slotSetting": false
+    }
+]
