@@ -1,0 +1,12 @@
+[
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "false",
+    "slotSetting": true
+  },
+  {
+    "name": "ANOTHER_SETTING",
+    "value": "true",
+    "slotSetting": false
+  }
+]
